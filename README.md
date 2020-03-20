@@ -1,2 +1,2 @@
-# QtCoreTemplate
+# QtProject
 学习记录
